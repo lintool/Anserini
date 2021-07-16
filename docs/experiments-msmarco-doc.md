@@ -228,3 +228,4 @@ That's it!
 + Results reproduced by [@jpark621](https://github.com/jpark621) on 2021-06-01 (commit [`2591e06`](https://github.com/castorini/anserini/commit/2591e063b4bee8881a641cf2167352ac212865a6))
 + Results reproduced by [@nimasadri11](https://github.com/nimasadri11) on 2021-06-27 (commit [`6f9352f`](https://github.com/castorini/anserini/commit/6f9352fc5d6a4938fadc2bda9d0c428056eec5f0))
 + Results reproduced by [@mzzchy](https://github.com/mzzchy) on 2021-07-05 (commit [`589928b`](https://github.com/castorini/anserini/commit/589928b1873b3ebe00234becd8b5da9d573dda6d))
++ Results reproduced by [@d1shs0ap](https://github.com/d1shs0ap) on 2021-07-16 (commit [`43ad899`](https://github.com/castorini/anserini/commit/43ad899337ac5e3b219d899bb218c4bcae18b1e6))
